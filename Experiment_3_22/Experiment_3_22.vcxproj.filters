@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="feature.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fhog.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dbscan.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="unsupervised.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="gen_features.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="supervised.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="process_rects.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="classfier.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BMS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HC.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="uav.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lrr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="fft.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main_show_rects.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="feature.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="dbscan.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fhog.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="unsupervised.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="gen_features.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="global_variables.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="supervised.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="process_rects.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="classfier.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BMS.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HC.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="uav.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lrr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="fft.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
